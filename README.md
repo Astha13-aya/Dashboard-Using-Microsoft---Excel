@@ -155,7 +155,7 @@ Supply-Chain-Performance-Dashboard/
 -Executive Summary <a href="https://github.com/Astha13-aya/Dashboard-Using-Microsoft---Excel/blob/main/Screenshot%202026-06-29%20222711.png">View Dashboard</a>
 
 ### Dashboard 2 – Product Performance
-- Product Performance <a href="
+- Product Performance <a href="https://github.com/Astha13-aya/Dashboard-Using-Microsoft---Excel/blob/main/Screenshot%202026-06-29%20222759.png">View Dashboard</a>
 ### Dashboard 3 – Operations & Supply Chain
 
 
