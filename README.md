@@ -7,6 +7,9 @@ The **Supply Chain Performance Dashboard** is an interactive Microsoft Excel pro
 This project demonstrates the complete data analysis workflow, including data cleaning, data preparation, KPI development, Pivot Tables, Pivot Charts, interactive slicers, and business storytelling.
 
 ---
+## Dataset used 
+
+- <a herf= "https://github.com/Astha13-aya/Dashboard-Using-Microsoft---Excel/blob/main/Supply%20Chain%20Data.xlsx"> Supply Chain Dataset</a>
 
 ## 🎯 Business Objective
 
