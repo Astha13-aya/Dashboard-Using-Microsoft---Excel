@@ -18,7 +18,7 @@ The dashboard was developed to help management answer three critical business qu
 
 ---
 
-## 📂 Dashboard Overview
+### 📂 Dashboard Overview
 
 ## 📈 Dashboard 1 – Executive Summary
 Provides a high-level overview of business performance through key metrics and product-wise analysis.
@@ -35,7 +35,7 @@ Provides a high-level overview of business performance through key metrics and p
 
 ---
 
-## 📊 Dashboard 2 – Product Performance
+### 📊 Dashboard 2 – Product Performance
 Analyzes product profitability and revenue contribution.
 
 **KPIs**
@@ -49,7 +49,7 @@ Analyzes product profitability and revenue contribution.
 
 ---
 
-## 🚚 Dashboard 3 – Operations & Supply Chain
+### 🚚 Dashboard 3 – Operations & Supply Chain
 Evaluates supplier performance, logistics efficiency, and operational quality.
 
 **KPIs**
@@ -148,9 +148,9 @@ Supply-Chain-Performance-Dashboard/
 
 ## 📸 Dashboard Preview
 
-## Dashboard 1 – Executive Summary
-## Dashboard 2 – Product Performance
-## Dashboard 3 – Operations & Supply Chain
+### Dashboard 1 – Executive Summary
+### Dashboard 2 – Product Performance
+### Dashboard 3 – Operations & Supply Chain
 
 
 
