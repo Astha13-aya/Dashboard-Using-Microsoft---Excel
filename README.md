@@ -9,7 +9,7 @@ This project demonstrates the complete data analysis workflow, including data cl
 ---
 ## Dataset used 
 
-- <a herf= "https://github.com/Astha13-aya/Dashboard-Using-Microsoft---Excel/blob/main/Supply%20Chain%20Data.xlsx"> Supply Chain Dataset</a>
+- <a href="https://github.com/Astha13-aya/Dashboard-Using-Microsoft---Excel/blob/main/Supply%20Chain%20Data.xlsx"> Supply Chain Dataset</a>
 
 ## 🎯 Business Objective
 
