@@ -1,4 +1,4 @@
-# Dashboard-Using-Microsoft-Excel #Karmix Tech
+# Dashboard-Using-Microsoft-Excel 
 
 ## 📌 Project Overview
 
